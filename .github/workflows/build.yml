@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - remove-prebuilt-dlls
   pull_request:
     branches:
       - master
